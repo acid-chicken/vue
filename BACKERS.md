@@ -1,6 +1,9 @@
 <h1 align="center">Sponsors &amp; Backers</h1>
 
-Vue.js is an MIT-licensed open source project. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome [backers](https://github.com/vuejs/vue/blob/dev/BACKERS.md). If you'd like to join them, please consider:
+Vue.js is an MIT-licensed open source project. It's an independent project with
+its ongoing development made possible entirely thanks to the support by these
+awesome [backers](https://github.com/vuejs/vue/blob/dev/BACKERS.md). If you'd
+like to join them, please consider:
 
 - [Become a backer or sponsor on Patreon](https://www.patreon.com/evanyou).
 - [Become a backer or sponsor on OpenCollective](https://opencollective.com/vuejs).
@@ -8,7 +11,11 @@ Vue.js is an MIT-licensed open source project. It's an independent project with 
 
 #### What's the difference between Patreon and OpenCollective?
 
-Funds donated via Patreon go directly to support Evan You's full-time work on Vue.js. Funds donated via OpenCollective are managed with transparent expenses and will be used for compensating work and expenses for core team members or sponsoring community events. Your name/logo will receive proper recognition and exposure by donating on either platform.
+Funds donated via Patreon go directly to support Evan You's full-time work on
+Vue.js. Funds donated via OpenCollective are managed with transparent expenses
+and will be used for compensating work and expenses for core team members or
+sponsoring community events. Your name/logo will receive proper recognition and
+exposure by donating on either platform.
 
 <br><br>
 
@@ -366,6 +373,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <h2 align="center">Generous Backers via Patreon ($50+)</h2>
 
 <!--50 start-->
+
 - Wasim Khamlichi
 - errorrik
 - Alex Balashov
@@ -375,11 +383,12 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Johnny Ray Austin
 - Daniel
 - Manuel Guzman
-<!--50 end-->
+  <!--50 end-->
 
 <h2 align="center">Backers via Patreon</h2>
 
 <!--10 start-->
+
 - Masahiro Tanaka
 - Shawn Wildermuth
 - Sean Washington
@@ -466,7 +475,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Allan McKernan
 - Parham
 - 琚致远
-<!--10 end-->
+  <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
 
