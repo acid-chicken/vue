@@ -28,7 +28,7 @@ exposure by donating on either platform.
     <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/stdlib.png">
   </a>
 </p>
-  
+
 <!--special end-->
 
 <h2 align="center">Platinum via Patreon</h2>
