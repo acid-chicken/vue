@@ -1,6 +1,9 @@
 <h1 align="center">Sponsors &amp; Backers</h1>
 
-Vue.js is an MIT-licensed open source project. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome [backers](https://github.com/vuejs/vue/blob/dev/BACKERS.md). If you'd like to join them, please consider:
+Vue.js is an MIT-licensed open source project. It's an independent project with
+its ongoing development made possible entirely thanks to the support by these
+awesome [backers](https://github.com/vuejs/vue/blob/dev/BACKERS.md). If you'd
+like to join them, please consider:
 
 - [Become a backer or sponsor on Patreon](https://www.patreon.com/evanyou).
 - [Become a backer or sponsor on OpenCollective](https://opencollective.com/vuejs).
@@ -8,7 +11,11 @@ Vue.js is an MIT-licensed open source project. It's an independent project with 
 
 #### What's the difference between Patreon and OpenCollective?
 
-Funds donated via Patreon go directly to support Evan You's full-time work on Vue.js. Funds donated via OpenCollective are managed with transparent expenses and will be used for compensating work and expenses for core team members or sponsoring community events. Your name/logo will receive proper recognition and exposure by donating on either platform.
+Funds donated via Patreon go directly to support Evan You's full-time work on
+Vue.js. Funds donated via OpenCollective are managed with transparent expenses
+and will be used for compensating work and expenses for core team members or
+sponsoring community events. Your name/logo will receive proper recognition and
+exposure by donating on either platform.
 
 <br><br>
 
@@ -319,17 +326,19 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <h2 align="center">Generous Backers via Patreon ($50+)</h2>
 
 <!--50 start-->
+
 - Wasim Khamlichi
-- errorrik 
+- errorrik
 - Konstantin Levinski
 - Sean Ferguson
 - Johnny Ray Austin
 - Manuel Guzman
-<!--50 end-->
+  <!--50 end-->
 
 <h2 align="center">Backers via Patreon</h2>
 
 <!--10 start-->
+
 - Masahiro Tanaka
 - Shawn Wildermuth
 - Keisuke Kita
@@ -339,7 +348,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Victor Tolbert
 - Wen-Tien Chang
 - Stephen Michael Hartley
-- Luiz 
+- Luiz
 - James J. Ye
 - Barbara Liau
 - Matsumoto Takamasa
@@ -348,7 +357,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Niannian Modisette
 - Bernhard E. Reiter
 - Asaf Yishai
-- username 
+- username
 - Zoran Knezevic
 - Jon Hobbs-Smith
 - Pierre Vanhulst
@@ -357,15 +366,15 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Haim Yulzari
 - Jim Raden
 - Jeremy Tan
-- IMGNRY 
-- Tyler 
+- IMGNRY
+- Tyler
 - Guilherme S L de Souza
 - Vivekanandhan Natarajan
 - Joe Gregory
 - Jordan Oroshiba
 - Marcos Moura
 - Jessie Hernandez
-- Eric 
+- Eric
 - Bohdan Kokotko
 - Oskar Lindgren
 - Jere Sjöroos
@@ -375,7 +384,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - David Ang
 - Jaeyoung Lee
 - David Kaplan
-- Andy 
+- Andy
 - Philip John Basile
 - Matt Sencenbaugh
 - Juan Bermudez
@@ -388,7 +397,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Yusuke Kawabata
 - Nick Dandakis
 - Peter Matkovsky
-- 龙腾道 
+- 龙腾道
 - Fabien GuySake Ungerer
 - Bill Condo
 - Pierre Lebrun
@@ -397,22 +406,22 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Alfonso Herrera
 - Bichinger Software & Consulting
 - Afif Sohaili
-- Nicolaas 
+- Nicolaas
 - Riki Fridrich
 - Tomasz Kleszczewski
-- 琚致远 
+- 琚致远
 - Diana Bergholz
-- Parham 
+- Parham
 - Allan McKernan
 - Roy Segall
 - Ronni Lin
 - Thomas Wiedemann
-- lucien144 
+- lucien144
 - Nobuhide Esaki
 - Santi Sanchez Canals
 - Zeth Odderskov
 - Evgeny Zislis
-<!--10 end-->
+  <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
 
